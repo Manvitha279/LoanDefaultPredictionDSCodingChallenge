@@ -321,6 +321,3 @@ print("\n Classification Report:")
 print(classification_report(y_test, y_pred))
 
 
-# ## SUBMIT YOUR WORK!
-# 
-# Once we are happy with our `prediction_df` and `prediction_submission.csv` we can now submit for autograding! Submit by using the blue **Submit Assignment** at the top of your notebook. Don't worry if your initial submission isn't perfect as you have multiple submission attempts and will obtain some feedback after each submission!
